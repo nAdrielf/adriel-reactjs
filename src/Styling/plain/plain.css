@@ -1,0 +1,16 @@
+.container {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+.angka {
+  display: inline-flex;
+}
+#plus {
+  margin: 0 10px;
+  border-radius: 50%;
+}
+#minus {
+  margin: 0 10px;
+  border-radius: 50%;
+}
